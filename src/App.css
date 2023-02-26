@@ -3,9 +3,19 @@
   align-items: center;
   justify-content: center;
   margin-top: 40vh;
+  
 }
 
 .btn{
   height: 45px;
   width: 45px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+.row{
+   display: flex;
+   
+}
+.container{
+  /* position: fixed; */
 }
